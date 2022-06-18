@@ -1,0 +1,18 @@
+.main{
+    margin: 0;
+    padding: 4 rem 0;
+    width: 90%;
+    max-width: 60rem;
+    background-color: red;
+}
+.form{
+    box-sizing:border-box;
+    padding: 2rem;
+    border-radius: 1rem;
+    /* background-color: ; */
+    display: grid;
+    display: flex;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+
+}

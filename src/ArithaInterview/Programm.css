@@ -1,0 +1,14 @@
+.button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    size: "20px";
+
+  }
+  .on {
+    color:red;
+  }
+  .off {
+    color: #ccc;
+  }
